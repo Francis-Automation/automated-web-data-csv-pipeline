@@ -26,18 +26,8 @@ Python | Selenium | n8n Workflow Automation | Zapier | Make | REST APIs | Automa
 
 ## Built by Francis | Founder @ Francis Automation
 📩 Email: Emechebefrancis8@gmail.com
-🔗 LinkedIn: [linkedin.com/in/francis-automation](https://linkedin.com)
+🔗 LinkedIn:www.linkedin.com/in/francis-automation
 
-DM me on LinkedIn with **"DATA PIPELINE"** for a custom workflow walkthrough.
 
-`nhs_nurse_jobs.csv` - 26+ jobs with Title, Trust, Salary, Closing Date, Direct Link
-> Ready for: Bullhorn, Mercury ATS, Voyager, Vincere
+Open to **Data Engineering, Backend Automation, and Healthcare Analytics** opportunities.
 
-## Tech Stack
-Python, Selenium, n8n Workflow Automation, CSV/Excel → Bullhorn / Mercury / Voyager Ready
-
-## Built by Francis | UK Staffing Automation Specialist
-📩 Email: Emechebefrancis8@gmail.com
-🔗 LinkedIn: linkedin.com/in/francis-automation
-
-DM me "NHS PIPELINE" for demo.
